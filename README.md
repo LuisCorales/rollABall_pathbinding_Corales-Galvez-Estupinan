@@ -1,4 +1,4 @@
-# rollABall_pathbinding_Corales-Galvez-Estupinan
+# rollABall_pathfinding_Corales-Galvez-Estupinan
  
 Programacion V
 - [Luis Corales](https://github.com/LuisCorales)
